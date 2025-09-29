@@ -69,7 +69,7 @@
 
 - Email: siddarthgoudapatil10@gmail.com  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-link)  
-- Portfolio: [maheshdindur.github.io](https://github.com/siddarthgouda/portfolio) 
+- Portfolio: [portfolio](https://github.com/siddarthgouda/portfolio) 
 
 ---
 
